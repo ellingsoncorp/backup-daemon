@@ -1,0 +1,6 @@
+[Info] starting daemon
+[Info] daemon started
+[Info] loading env vars
+[Info] env vars loaded
+[Info] backup_bucket = ellingson-backup.s3.amazonaws.com
+[Info] next backup scheduled in two weeks
